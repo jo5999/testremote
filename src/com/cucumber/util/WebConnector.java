@@ -37,7 +37,7 @@ public class WebConnector {
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
-			System.out.println("Problem while loading properties file");
+			System.out.println("Problem while loading OR or CONFIG properties file");
 		}
 	}
 	
